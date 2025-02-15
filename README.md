@@ -1,6 +1,6 @@
 # 🌟 Personal Portfolio
 
-A sleek and modern personal portfolio built using HTML, CSS, and JavaScript to showcase your skills, projects, and experience.
+A sleek and modern personal portfolio built using HTML, CSS, and JavaScript to showcase my skills, projects, and experience.
 
 ## 🚀 Features
 - 🎨 Fully responsive and visually appealing design
