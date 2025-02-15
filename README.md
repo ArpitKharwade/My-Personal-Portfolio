@@ -4,15 +4,16 @@ A sleek and modern personal portfolio built using HTML, CSS, and JavaScript to s
 
 ## 🚀 Features
 - 🎨 Fully responsive and visually appealing design
-- 🖼️ Interactive project gallery
+- 🖼️ Interactive project gallery with hover effects
+- 🔥 Dynamic animations using JavaScript
 - 📜 Smooth scrolling and animated transitions
-- 📧 Contact form integration
-- 🌐 Social media links
+- 📨 Contact form with real-time validation
+- 🌐 Social media links with animated icons
 
 ## 🛠️ Technologies Used
 - **HTML** - Structuring the webpage
-- **CSS** - Styling and layout
-- **JavaScript** - Interactivity and animations
+- **CSS** - Styling and layout with animations
+- **JavaScript** - Interactivity, animations, and dynamic elements
 
 ## 📂 Installation
 ### Clone the repository
@@ -25,6 +26,9 @@ cd portfolio
 ```
 ### Open the application
 Simply open `index.html` in your browser to view the portfolio.
+
+## 🎥 Live Demo
+Check out the live demo: [Portfolio Live](https://yourportfolio.com)
 
 ## 📸 Preview
 ![Portfolio Preview](assets/preview.png)
@@ -40,4 +44,5 @@ For any questions or feedback, reach out via [LinkedIn](https://linkedin.com/in/
 
 ---
 Showcase your talent in style! 🚀
+
 
