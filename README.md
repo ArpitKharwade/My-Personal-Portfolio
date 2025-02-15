@@ -28,7 +28,7 @@ cd portfolio
 Simply open `index.html` in your browser to view the portfolio.
 
 ## 🎥 Live Demo
-Check out the live demo: [Portfolio Live](arpitk-2004-portfolio.netlify.app)
+Check out the live demo: [Portfolio Live](https://arpitk-2004-portfolio.netlify.app/)
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
